@@ -1,0 +1,2 @@
+#define SAVEAPPLIB_API __declspec(dllexport)
+#define SAVEAPPLIB_API __declspec(dllimport)

@@ -1,0 +1,2 @@
+#define READAPPLIB_API __declspec(dllexport)
+#define READAPPLIB_API __declspec(dllimport)

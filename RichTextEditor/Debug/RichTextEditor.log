@@ -1,0 +1,10 @@
+﻿  RichTextEditor.cpp
+C:\Users\Eric\source\repos\RichTextEditor\Core\Core.h(13,16): warning C4251: 'Core::content': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'Core'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\Eric\source\repos\RichTextEditor\FontUILib\FontUILib.h(13,13): warning C4251: 'FontUILib::font': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'FontUILib'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\Eric\source\repos\RichTextEditor\FontColorUILib\FontColorUILib.h(13,18): warning C4251: 'FontColorUILib::fontColor': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'FontColorUILib'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\Eric\source\repos\RichTextEditor\FontSizeUILib\FontSizeUILib.h(13,17): warning C4251: 'FontSizeUILib::fontSize': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'FontSizeUILib'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+  RichTextEditor.vcxproj -> C:\Users\Eric\source\repos\RichTextEditor\Debug\RichTextEditor.exe

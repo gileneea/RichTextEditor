@@ -1,0 +1,9 @@
+﻿  dllmain.cpp
+  FontSizeUILib.cpp
+C:\Users\Eric\source\repos\RichTextEditor\FontSizeUILib\FontSizeUILib.h(13,17): warning C4251: 'FontSizeUILib::fontSize': class 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>' needs to have dll-interface to be used by clients of class 'FontSizeUILib'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\include\xstring(4564): message : see declaration of 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>'
+C:\Users\Eric\source\repos\RichTextEditor\Localization\Localization.cpp(12,1): warning C4273: 'Localization::Localization': inconsistent dll linkage
+C:\Users\Eric\source\repos\RichTextEditor\Localization\Localization.h(10,2): message : see previous definition of '{ctor}'
+  Generating Code...
+     Creating library C:\Users\Eric\source\repos\RichTextEditor\Debug\FontSizeUILib.lib and object C:\Users\Eric\source\repos\RichTextEditor\Debug\FontSizeUILib.exp
+  FontSizeUILib.vcxproj -> C:\Users\Eric\source\repos\RichTextEditor\Debug\FontSizeUILib.dll

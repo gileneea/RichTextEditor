@@ -1,0 +1,2 @@
+#define FONTSIZEUILIB_API __declspec(dllexport)
+#define FONTSIZEUILIB_API __declspec(dllimport)

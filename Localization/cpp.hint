@@ -1,0 +1,2 @@
+#define LOCALIZATION_API __declspec(dllexport)
+#define LOCALIZATION_API __declspec(dllimport)
